@@ -1,0 +1,5 @@
+const calc = require('./calc')
+console.log(calc.times(1, 0))
+console.log(calc.divide(1, 0))
+console.log(calc.add(1, 0))
+console.log(calc.minus(1, 0))
